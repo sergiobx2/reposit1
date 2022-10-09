@@ -1,2 +1,2 @@
 # reposit1
- Just to try new stuff, watching cursoem video Git and Github course
+ Just to try new stuff, watching curso em video Git and Github course
