@@ -6,14 +6,16 @@ using namespace std;
 
 int main(){
 
-    vector <int> vec;
-    vec.push_back(23);
-    cout << "Email: sergiobx2@gmail.com" << endl;
+    vector <string> vec{"Sergio", "Cristiano", "Neiva", "Alves", "Baixo"};
+    for(auto i: vec){
+        cout << i << endl;
+    }
+    //cout << "Email: sergiobx2@gmail.com" << endl;
     
     
     
 
-    cout << "Hello World sid by Sergio Baixo" << endl;
+    cout << "Hello World said by Sergio Baixo" << endl;
 
     return 0;
 }
