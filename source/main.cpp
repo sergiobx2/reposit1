@@ -12,6 +12,7 @@ int main(){
     for(auto i: vec){
         cout << i << endl;
     }
+    cout << "Prata is gay" << endl;
     //cout << "Email: sergiobx2@gmail.com" << endl;
     
     
